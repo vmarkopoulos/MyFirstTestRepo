@@ -3,6 +3,6 @@ package eu.upcom.testing;
 public class MyTestClass {
 
 	void myFirstOperation() {
-		System.out.println("Local repo, I didn't expect a conflict");
+		System.out.println("I will finally commit the merged version");
 	}
 }
