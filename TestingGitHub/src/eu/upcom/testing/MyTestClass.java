@@ -3,6 +3,6 @@ package eu.upcom.testing;
 public class MyTestClass {
 
 	void myFirstOperation() {
-		System.out.println("testing branch");
+		System.out.println("Before update again");
 	}
 }
